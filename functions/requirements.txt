@@ -1,0 +1,7 @@
+firebase_functions~=0.1.0
+Pillow
+firebase-admin
+google-cloud-storage
+google-cloud-firestore
+firebase-functions
+google-generativeai
